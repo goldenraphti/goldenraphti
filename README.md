@@ -1,5 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Raphaël Ferrand
 
+I'm a software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
+
 - Things I like to work on :v:
 
   - Web-Performance :rocket:
