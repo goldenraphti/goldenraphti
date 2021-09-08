@@ -2,7 +2,7 @@
 
 I'm a software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
-- Things I like to work on :v:
+- Things I like to work on :fire:
 
   - Web-Performance :rocket:
   - React / React Native
@@ -13,7 +13,7 @@ I'm a software engineer. I'm passionate about people and technology. About UI an
     - Ethics :fist:
 
 - Some sources of inspiration :sparkles:
-  - Jake Archibald
+  - Jake Archibald [:bird:](https://twitter.com/jaffathecake) [:computer:](https://jakearchibald.com/)
   - Henri Helvetica
   - Jem Young
   - Dave Rupert
