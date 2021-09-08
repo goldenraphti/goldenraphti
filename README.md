@@ -3,11 +3,11 @@
 I'm a software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
 ### Contents:
-  - [Things I like to work on :fire:](#Things-I-like-to-work-on-)
-  - [Some sources of inspiration :sparkles:](#Some-sources-of-inspiration-)
-  - [Public Professional projects I've been working on](#Public-Professional-projects-I've-been-working-on-)
-  - [Personal Projects I'm working on](#Personal-Projects-I'm-working-on-)
-  - [Fun facts you didn't know about me](#Things-you-probably-didn't-know-about-me-)
+  - [Things I like to work on :fire:](#things-I-like-to-work-on-)
+  - [Some sources of inspiration :sparkles:](#some-sources-of-inspiration-)
+  - [Public Professional projects I've been working on](#public-professional-projects-I've-been-working-on-)
+  - [Personal Projects I'm working on](#personal-Projects-I'm-working-on-)
+  - [Fun facts you didn't know about me](#things-you-probably-didn't-know-about-me-)
 
 ### Things I like to work on :fire:
 
