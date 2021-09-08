@@ -2,7 +2,14 @@
 
 I'm a software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
-- Things I like to work on :fire:
+### Contents:
+  - [Things I like to work on :fire:](#Things-ßI-like-to-work-on)
+  - [Some sources of inspiration :sparkles:](#Some-sources-of-inspiration)
+  - [Public Professional projects I've been working on](#Public-Professional-projects-I've-been-working-on)
+  - [Personal Projects I'm working on](#Personal-Projects-I'm-working-on)
+  - [Fun facts you didn't know about me](#Things-you-probably-didn't-know-about-me)
+
+### Things I like to work on :fire:
 
   - Web-Performance :rocket:
   - React / React Native
@@ -12,10 +19,26 @@ I'm a software engineer. I'm passionate about people and technology. About UI an
     - Defensice coding :punch:
     - Ethics :fist:
 
-- Some sources of inspiration :sparkles:
+### Some sources of inspiration :sparkles:
   - Jake Archibald [:bird:](https://twitter.com/jaffathecake) [:computer:](https://jakearchibald.com/)
   - Henri Helvetica [:bird:](https://twitter.com/HenriHelvetica)
   - Jem Young [:bird:](https://twitter.com/JemYoung)
   - Dave Rupert [:bird:](https://twitter.com/davatron5000) [:computer:](https://daverupert.com/)
   - Addy Osmani [:bird:](https://twitter.com/addyosmani) [:computer:](https://addyosmani.com/)
   - Dan Abramov [:bird:](https://twitter.com/dan_abramov) [:computer:](https://overreacted.io/)
+
+### Public Professional projects I've been working on:
+  - [Yara 60+ countries websites](https://www.yara.com/)
+  - [B2B farming ecommerce](https://rfq.myyara.com/es-co)
+  - [Map the World](https://maptheworld.no/)
+  - [ApplyIt mobile app](https://apps.apple.com/us/app/yara-applyit/id1447504543)
+  - [Farm to Future - Yara & IBM collaboration](https://opendata.farm/)
+
+### Personal Projects I'm working on
+  - [Personal blog](https://raphaelferrand.netlify.com)
+  - [Oslo Trail](https://oslo-trail.netlify.app/)
+  - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
+
+### Things you probably didn't know about me
+  - I used to be a coach for professional athletes, coaching national teams & world champions
+  - I love photography
