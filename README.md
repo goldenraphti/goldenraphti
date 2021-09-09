@@ -8,7 +8,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on-)
   - [Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
-  - [Tech I've been using in the last 12 months ⚒️](#tech-ive-been-using-in-the-last-12-months-)
+  - [Tech I've been using ilately ⚒️](#tech-ive-been-using-lately-)
   - [In my free time I like to ⛰️](#in-my-free-time-i-like-to-)
 
 ### Things I like to work on 🔥
@@ -46,7 +46,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - I love photography 📸
 
 
-### Tech I've been using in the last 12 months ⚒️
+### Tech I've been using lately ⚒️
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
