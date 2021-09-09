@@ -3,15 +3,15 @@
 I'm a UI software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
 ### Contents:
-  - [Things I like to work on :fire:](#things-i-like-to-work-on-)
-  - [Some sources of inspiration :sparkles:](#some-sources-of-inspiration)
+  - [Things I like to work on 🔥](#things-i-like-to-work-on-)
+  - [Some sources of inspiration ✨](#some-sources-of-inspiration-)
   - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on)
   - [Personal Projects I'm working on 🤫](#personal-Projects-im-working-on)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
   - [Tech I've been using in the last 12 months ⚒️](#tech-ive-been-using-in-the-last-12-months)
   - [In my free time I like to ⛰️](#in-my-free-time-i-like-to)
 
-### Things I like to work on :fire:
+### Things I like to work on 🔥
 
   - Web-Performance :rocket:
   - React / React Native
@@ -21,7 +21,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
     - Defensice coding :punch:
     - Ethics :fist:
 
-### Some sources of inspiration
+### Some sources of inspiration ✨
   <li><a href="https://github.com/jakearchibald"><img src=https://avatars.githubusercontent.com/u/93594?v=4&s=40 height=20 border-radius="50px"/> Jake Archibald</a> <a href="https://twitter.com/jaffathecake">🐦</a> <a href="https://jakearchibald.com/">🌐</a></li>
   <li> Henri Helvetica <a href="https://twitter.com/HenriHelvetica">🐦</a></li>
   <li> Jem Young <a href="https://twitter.com/JemYoung">🐦</a></li>
@@ -29,14 +29,14 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   <li><a href="https://github.com/addyosmani"><img src=https://avatars.githubusercontent.com/u/110953?v=4&s=40 height=20 border-radius="50px"/> Addy Osmani</a> <a href="https://twitter.com/addyosmani">🐦</a> <a href="https://addyosmani.com/">🌐</a></li>
   <li><a href="https://github.com/gaearon"><img src=https://avatars.githubusercontent.com/u/810438?v=4&s=40 height=20 border-radius="50px"/> Dan Abramov</a> <a href="https://twitter.com/dan_abramov">🐦</a> <a href="https://overreacted.io/">🌐</a></li>
 
-### Public Professional projects I've been working on
+### Public Professional projects I've been working on 👔
   - [Yara 60+ countries websites](https://www.yara.com/)
   - [B2B farming ecommerce](https://rfq.myyara.com/es-co)
   - [Map the World](https://maptheworld.no/)
   - [ApplyIt mobile app](https://apps.apple.com/us/app/yara-applyit/id1447504543)
   - [Farm to Future - Yara & IBM collaboration](https://opendata.farm/)
 
-### Personal Projects I'm working on
+### Personal Projects I'm working on 🤫
   - [Personal blog](https://raphaelferrand.netlify.com)
   - [Oslo Trail](https://oslo-trail.netlify.app/)
   - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
@@ -46,7 +46,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - I love photography 📸
 
 
-### Tech I've been using in the last 12 months
+### Tech I've been using in the last 12 months ⚒️
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -68,7 +68,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-### In my free time I like to
+### In my free time I like to ⛰️
 - take photo
 - do visual creative collages
 - do outdoor sports (XC-ski, orienteering, trail-running MTB, ...)
