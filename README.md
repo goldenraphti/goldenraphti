@@ -25,12 +25,12 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
     - Ethics :fist:
 
 ### Some sources of inspiration ✨
-  <li><a href="https://github.com/jakearchibald"><img src=https://avatars.githubusercontent.com/u/93594?v=4&s=40 height=20 border-radius="50px"/> Jake Archibald</a> <a href="https://twitter.com/jaffathecake">🐦</a> <a href="https://jakearchibald.com/">🌐</a></li>
-  <li> Henri Helvetica <a href="https://twitter.com/HenriHelvetica">🐦</a></li>
-  <li> Jem Young <a href="https://twitter.com/JemYoung">🐦</a></li>
-  <li><a href="https://github.com/davatron5000"><img src=https://avatars.githubusercontent.com/u/42218?v=4&s=40 height=20 border-radius="50px"/> Dave Rupert</a> <a href="https://twitter.com/davatron5000">🐦</a> <a href="https://daverupert.com/">🌐</a></li>
-  <li><a href="https://github.com/addyosmani"><img src=https://avatars.githubusercontent.com/u/110953?v=4&s=40 height=20 border-radius="50px"/> Addy Osmani</a> <a href="https://twitter.com/addyosmani">🐦</a> <a href="https://addyosmani.com/">🌐</a></li>
-  <li><a href="https://github.com/gaearon"><img src=https://avatars.githubusercontent.com/u/810438?v=4&s=40 height=20 border-radius="50px"/> Dan Abramov</a> <a href="https://twitter.com/dan_abramov">🐦</a> <a href="https://overreacted.io/">🌐</a></li>
+  <li><a href="https://github.com/jakearchibald"><img src=https://avatars.githubusercontent.com/u/93594?v=4&s=40 height=20 border-radius="50px"/> Jake Archibald</a> <a href="https://twitter.com/jaffathecake"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a> <a href="https://jakearchibald.com/">🌐</a></li>
+  <li> Henri Helvetica <a href="https://twitter.com/HenriHelvetica"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a></li>
+  <li> Jem Young <a href="https://twitter.com/JemYoung"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a></li>
+  <li><a href="https://github.com/davatron5000"><img src=https://avatars.githubusercontent.com/u/42218?v=4&s=40 height=20 border-radius="50px"/> Dave Rupert</a> <a href="https://twitter.com/davatron5000"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a> <a href="https://daverupert.com/">🌐</a></li>
+  <li><a href="https://github.com/addyosmani"><img src=https://avatars.githubusercontent.com/u/110953?v=4&s=40 height=20 border-radius="50px"/> Addy Osmani</a> <a href="https://twitter.com/addyosmani"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a> <a href="https://addyosmani.com/">🌐</a></li>
+  <li><a href="https://github.com/gaearon"><img src=https://avatars.githubusercontent.com/u/810438?v=4&s=40 height=20 border-radius="50px"/> Dan Abramov</a> <a href="https://twitter.com/dan_abramov"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="15" /></a> <a href="https://overreacted.io/">🌐</a></li>
 
 ### Public Professional projects I've been working on 👔
   - [Yara 60+ countries websites](https://www.yara.com/)
