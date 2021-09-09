@@ -5,11 +5,11 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 ### Contents:
   - [Things I like to work on 🔥](#things-i-like-to-work-on-)
   - [Some sources of inspiration ✨](#some-sources-of-inspiration-)
-  - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on)
-  - [Personal Projects I'm working on 🤫](#personal-Projects-im-working-on)
+  - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on-)
+  - [Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
-  - [Tech I've been using in the last 12 months ⚒️](#tech-ive-been-using-in-the-last-12-months)
-  - [In my free time I like to ⛰️](#in-my-free-time-i-like-to)
+  - [Tech I've been using in the last 12 months ⚒️](#tech-ive-been-using-in-the-last-12-months-)
+  - [In my free time I like to ⛰️](#in-my-free-time-i-like-to-)
 
 ### Things I like to work on 🔥
 
