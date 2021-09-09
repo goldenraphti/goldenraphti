@@ -1,5 +1,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Raphaël Ferrand</h1>
 
+[![raphael-header-tropical](https://github.com/goldenraphti/goldenraphti/blob/main/github-profile-header-tropical-clouds.jpg)](https://github.com/goldenraphti?tab=repositories)
+
+
 I'm a UI software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
 ### Contents:
