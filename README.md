@@ -9,9 +9,9 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Things I like to work on 🔥](#things-i-like-to-work-on-)
   - [Some sources of inspiration ✨](#some-sources-of-inspiration-)
   - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on-)
-  - [Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
+  - [Some Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
-  - [Tech I've been using ilately ⚒️](#tech-ive-been-using-lately-)
+  - [Tech I've been using lately ⚒️](#tech-ive-been-using-lately-)
   - [In my free time I like to ⛰️](#in-my-free-time-i-like-to-)
 
 ### Things I like to work on 🔥
@@ -47,7 +47,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 ### Things you probably didn't know about me 🤯
   - I used to be a coach for professional athletes, coaching national teams & world champions 🏆
   - I love photography 📸
-
+  - I can touch my nose with my tongue
 
 ### Tech I've been using lately ⚒️
 <p align="left">
@@ -72,9 +72,9 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 </p>
 
 ### In my free time I like to ⛰️
-- take photo
-- do visual creative collages
-- do outdoor sports (XC-ski, orienteering, trail-running MTB, ...)
+- take photos
+- make collages
+- run like a mountain goat outdoor (XC-ski, orienteering, trail-running, MTB, ...)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenraphti&bg_color=45,02AAB0,00CDAC&text_color=ffffff&title_color=E60373)](https://github.com/anuraghazra/github-readme-stats)
 
