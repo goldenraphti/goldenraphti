@@ -5,18 +5,22 @@
 
 I'm a UI software engineer. I'm passionate about people and technology. About UI and code. About resilience and elegance. About meaning and ethic.
 
+
 ### Contents:
+
   - [Things I like to work on 🔥](#things-i-like-to-work-on-)
   - [Some sources of inspiration ✨](#some-sources-of-inspiration-)
   - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on-)
   - [Some Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
-  - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
   - [Tech I've been using lately ⚒️](#tech-ive-been-using-lately-)
+  - [Topics I'd love to know more about 🌱](#topics-id-love-to-know-more-about-)
+  - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
   - [In my free time I like to ⛰️](#in-my-free-time-i-like-to-)
+
 
 ### Things I like to work on 🔥
 
-  - Web-Performance :rocket:
+  - Web-Performance :rocket: (#perfmatters)
   - React / React Native
   - Writing code with:
     - Elegance
@@ -24,7 +28,9 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
     - Defensice coding :punch:
     - Ethics :fist:
 
+
 ### Some sources of inspiration ✨
+
   <li><a href="https://github.com/jakearchibald"><img src=https://avatars.githubusercontent.com/u/93594?v=4&s=40 height=20 border-radius="50px"/> Jake Archibald</a> <a href="https://twitter.com/jaffathecake"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="20" top="15px" /></a> <a href="https://jakearchibald.com/">🌐</a></li>
   <li> Henri Helvetica <a href="https://twitter.com/HenriHelvetica"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="20" top="15px" /></a></li>
   <li> Jem Young <a href="https://twitter.com/JemYoung"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="20" top="15px" /></a></li>
@@ -32,24 +38,25 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   <li><a href="https://github.com/addyosmani"><img src=https://avatars.githubusercontent.com/u/110953?v=4&s=40 height=20 border-radius="50px"/> Addy Osmani</a> <a href="https://twitter.com/addyosmani"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="20" top="15px" /></a> <a href="https://addyosmani.com/">🌐</a></li>
   <li><a href="https://github.com/gaearon"><img src=https://avatars.githubusercontent.com/u/810438?v=4&s=40 height=20 border-radius="50px"/> Dan Abramov</a> <a href="https://twitter.com/dan_abramov"><img src="http://icons.iconarchive.com/icons/xenatt/the-circle/128/App-Twitter-icon.png" alt="twitter" height="20" top="15px" /></a> <a href="https://overreacted.io/">🌐</a></li>
 
+
 ### Public Professional projects I've been working on 👔
+
   - [Yara 60+ countries websites](https://www.yara.com/)
   - [B2B farming ecommerce](https://rfq.myyara.com/es-co)
   - [Map the World](https://maptheworld.no/)
   - [ApplyIt mobile app](https://apps.apple.com/us/app/yara-applyit/id1447504543)
   - [Farm to Future - Yara & IBM collaboration](https://opendata.farm/)
 
+
 ### Personal Projects I'm working on 🤫
+
   - [Personal blog](https://raphaelferrand.netlify.com)
   - [Oslo Trail](https://oslo-trail.netlify.app/)
   - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
 
-### Things you probably didn't know about me 🤯
-  - I used to be a coach for professional athletes, coaching national teams & world champions 🏆
-  - I love photography 📸
-  - I can touch my nose with my tongue
 
 ### Tech I've been using lately ⚒️
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -71,7 +78,15 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
+### Topics I'd love to know more about 🌱
+
+- How to leverage Machine Learning in web
+- Testing
+- Sustainability in Web Development
+
+
 ### In my free time I like to ⛰️
+
 - take photos
 - make collages
 - run like a mountain goat outdoor (XC-ski, orienteering, trail-running, MTB, ...)
@@ -79,3 +94,10 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenraphti&bg_color=45,02AAB0,00CDAC&text_color=ffffff&title_color=E60373)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenraphti&layout=compact&bg_color=45,02AAB0,00CDAC&text_color=ffffff&title_color=E60373)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Things you probably didn't know about me 🤯
+
+  - I used to be a coach for professional athletes, coaching national teams & world champions 🏆
+  - I love photography 📸
+  - I can touch my nose with my tongue
