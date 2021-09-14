@@ -15,7 +15,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Tech I've been using lately ⚒️](#tech-ive-been-using-lately-)
   - [Topics I'd love to know more about 🌱](#topics-id-love-to-know-more-about-)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
-  - [In my free time I like to ⛰️](#in-my-free-time-i-like-to-)
+  - [In my free time I like to 🏔](#in-my-free-time-i-like-to-)
 
 
 ### Things I like to work on 🔥
@@ -55,8 +55,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
 
 
-### Tech I've been using lately ⚒️
-
+### Tech I've been using lately 🛠
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -78,6 +77,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
+
 ### Topics I'd love to know more about 🌱
 
 - How to leverage Machine Learning in web
@@ -85,8 +85,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 - Sustainability in Web Development
 
 
-### In my free time I like to ⛰️
-
+### In my free time I like to 🏔
 - take photos
 - make collages
 - run like a mountain goat outdoor (XC-ski, orienteering, trail-running, MTB, ...)
