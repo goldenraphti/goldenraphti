@@ -12,7 +12,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Some sources of inspiration ✨](#some-sources-of-inspiration-)
   - [Public Professional projects I've been working on 👔](#public-professional-projects-ive-been-working-on-)
   - [Some Personal Projects I'm working on 🤫](#personal-Projects-im-working-on-)
-  - [Tech I've been using lately ⚒️](#tech-ive-been-using-lately-)
+  - [Tech I've been using ⚒️](#tech-ive-been-using-)
   - [Topics I'd love to know more about 🌱](#topics-id-love-to-know-more-about-)
   - [Fun facts you didn't know about me 🤯](#things-you-probably-didnt-know-about-me-)
   - [In my free time I like to 🏔](#in-my-free-time-i-like-to-)
@@ -55,7 +55,7 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
   - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
 
 
-### Tech I've been using lately 🛠
+### Tech I've been using 🛠
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
