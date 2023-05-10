@@ -36,16 +36,18 @@ I'm a UI software engineer. I'm passionate about people and technology. About UI
 
 ### Public Professional projects I've been working on 👔
 
+- [SwedbankPay Design System](https://design.swedbankpay.com)
 - [Yara 60+ countries websites](https://www.yara.com/)
 - [B2B farming ecommerce](https://rfq.myyara.com/es-co)
 - [Firefox Devtools](https://github.com/mozilla/gecko-dev/commits/master?author=goldenraphti)
 - [Map the World](https://maptheworld.no/)
 - [ApplyIt mobile app](https://apps.apple.com/us/app/yara-applyit/id1447504543)
-- [Farm to Future - Yara & IBM collaboration](https://opendata.farm/)
 
 ### Personal Projects I'm working on 🤫
 
 - [Personal blog](https://raphaelferrand.netlify.com)
+- [Humankind Timeline](https://humankind-timeline.netlify.app)
+- [Web Dev Experiments](https://web-experiments.netlify.app)
 - [Oslo Trail](https://oslo-trail.netlify.app/)
 - [Fontane di Roma](https://fontane-di-roma.netlify.app/)
 
